@@ -6,3 +6,4 @@ build/
 *.pyc
 .DS_Store
 *.tmp
+.cache/
